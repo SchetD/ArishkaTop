@@ -1,0 +1,135 @@
+body {
+    background: url(bg.jpg) no-repeat;
+}
+
+h1 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    color: FCF485;
+    background: #FE89B6;
+    font-size: 50px align='top';
+    border: 1px solid;
+}
+
+.FirstP {
+    position: fixed;
+    text-align: left;
+    font-size: 20px;
+    color: #FCF485;
+    border: 1px dotted;
+    background: #FE89B6;
+    height: 150px;
+    width: 300px;
+    left: 100px;
+    top: 100px;
+}
+
+.photo1 {
+    position: fixed;
+    left: 100px;
+    top: 300px;
+    border: 3px dotted yellow;
+    width: 300px;
+    height: 500px;
+}
+
+.StikerText {
+    position: fixed;
+    color: FCF485;
+    background: #FE89B6;
+    font-size: 40px;
+    border: 1px solid;
+    width: 450px;
+    height: 60px;
+    left: 650px;
+    top: 100px;
+}
+
+.chmokR {
+    position: fixed;
+    left: 900px;
+    top: 200px;
+    background: #FE89B6;
+    border: 1px solid yellow;
+}
+
+.chmokL {
+    position: fixed;
+    left: 700px;
+    top: 200px;
+    background: #FE89B6;
+    border: 1px solid yellow;
+}
+
+.loveL {
+    position: fixed;
+    left: 700px;
+    top: 400px;
+    background: #FE89B6;
+    border: 1px solid yellow;
+}
+
+.loveR {
+    position: fixed;
+    left: 900px;
+    top: 400px;
+    background: #FE89B6;
+    border: 1px solid yellow;
+}
+
+.hurt {
+    position: fixed;
+    left: 700px;
+    top: 600px;
+    background: #FE89B6;
+    border: 1px solid yellow;
+}
+
+.forev {
+    position: fixed;
+    left: 900px;
+    top: 600px;
+    background: #FE89B6;
+    border: 1px solid yellow;
+}
+audio{
+    position: fixed;
+    left: 1300px;
+    top: 200px;
+    color: bisque;
+}
+.SecondP{
+    position: fixed;
+    text-align: left;
+    font-size: 20px;
+    color: #FCF485;
+    border: 1px dotted;
+    background: #FE89B6;
+    height: 50px;
+    width: 400px;
+    left: 1300px;
+    top: 100px;
+}
+.ThreeP{
+    position: fixed;
+    text-align: left;
+    font-size: 20px;
+    color: #FCF485;
+    border: 1px dotted;
+    background: #FE89B6;
+    height: 50px;
+    width: 400px;
+    left: 1300px;
+    top: 250px;
+}
+.photo2{
+    position: fixed;
+    left: 1300px;
+    top: 350px;
+    border: 3px dotted yellow;
+    width: 400px;
+    height: 500px;
+}
